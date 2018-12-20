@@ -1,0 +1,16 @@
+name = 'Loser'
+print(name)
+
+hello = 'hello ' * 50
+print(hello)
+
+
+name = 'Joel ' * 1000
+print(name)
+
+firstname = 'Adam'
+lastname = 'Macker'
+fullname = firstname + ' ' + lastname
+print('First name: ' + firstname)
+print('Last name: ' + lastname)
+print('Full name: ' + fullname)

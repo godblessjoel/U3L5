@@ -1,0 +1,4 @@
+tweet = 'Canada say goodbye'
+angry_tweet = 'canada say it.'.upper()
+
+print(angry_tweet)
